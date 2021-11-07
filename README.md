@@ -10,12 +10,4 @@
 
 ## Projects Done
 
-##### <ol>   <li> BAT SYSTEM <br>   <h4> KeyFeatures 
-     GPS Location
-     Remote Engine Status
-     Virtual Lock
-     Find My Bike
-     Easy to install
-    
-  </li>
-</ol>
+##### <ol>   <li> BAT SYSTEM 
