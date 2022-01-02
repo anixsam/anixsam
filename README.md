@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/anixsamsaji/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/anixsam"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
+<a href = "https://twitter.com/anix_sam"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/anix_sam_official/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/anixsam"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
