@@ -9,7 +9,7 @@
 - 👀 I’m interested in coding, diy, cyber security
 - 🌱 I’m studying Computer Science Engineering and also flutter development
 - 💞️ I’m looking to collaborate on anything that I'm skilled in.
-- 👨‍💻 **[My Portfolio](https://anixsam.github.io/mysite)**
+- 👨‍💻 **[My Portfolio](https://www.anixsamsaji.me)**
 - 📫 Mail me **anixsamsajikdm@gmail.com**
 
 <!---
