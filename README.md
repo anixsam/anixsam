@@ -4,7 +4,13 @@
   </a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anix Sam Saji</h1>
+<p align="center"> 
+  <a href="https://linkedin.com/in/anixsamsaji">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+,+I%27m+Anix+Sam+Saji;Self+-+Taught+Developer">
+  </a> 
+</p>
+
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anix Sam Saji</h1> -->
 
 - 👀 I’m interested in coding, diy, cyber security
 - 🌱 I’m studying Computer Science Engineering and also flutter development
@@ -34,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://github.com/anixsam/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anix's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anixsam&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anix's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anixsam&theme=neon-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
