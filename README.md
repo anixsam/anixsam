@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://github.com/anixsam/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anix's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anixsam&theme=dark-icek&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anix's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anixsam&theme=dark-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
